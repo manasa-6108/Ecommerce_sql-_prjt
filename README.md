@@ -32,7 +32,7 @@ Product category data: The table contains the information about the product cate
 
 
 
-conclusion
+**conclusion**
 
 From the Data- analysis better understanding the customer retention, sales predication for each category Electronics, Flagships, Books, DIY products and predict the upcoming future  sales.
 Challenges faced while understanding the time analysis and total revenue on different period.
