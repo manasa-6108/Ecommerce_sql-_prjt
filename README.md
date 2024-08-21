@@ -43,7 +43,7 @@ From the Data- analysis better understanding the customer retention, sales predi
 Challenges faced while understanding the time analysis and total revenue on different period.
 The insights highlight the performance which product category sales tops the revenue and yield.
 To evaluate and enhancement based on customer feedback.
-To increase the sales, avail some exclusive offers on weekends Top 5 and around 3 month once.
+To increase the sales, avail some exclusive offers on weekends and monthly basis.
 
 
 
