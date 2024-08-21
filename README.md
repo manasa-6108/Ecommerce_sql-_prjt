@@ -30,6 +30,11 @@ Product category data: The table contains the information about the product cate
 
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/946fa5c0-658a-4d81-bfbf-2fb3ef35523d">
 
+**Data Understanding and preparation
+Objective:**
+
+**Data analysis**
+
 
 
 **conclusion**
