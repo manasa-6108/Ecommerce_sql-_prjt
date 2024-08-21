@@ -1,4 +1,4 @@
-# Ecommerce_sql-_prjt
+# Ecommerce based project 
 
 Ecommerce (electronic commerce) is the buying and selling of goods and services over the internet. It involves a wide range of online transactions, including online retail stores, digital marketplaces, business-to-business (B2B) sales.
 
