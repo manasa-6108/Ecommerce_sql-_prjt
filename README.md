@@ -17,6 +17,10 @@ To use data analysis method to optimize the performance of business insights for
 To predict the sales outcome for current standard, comparison with competitor and predict the futuristic results.
 To collect the data for Retail E-commerce details from the given three tables(customer, transaction and product) and executing the objectives and get the desired output.
 
+**Tools used
+-MYSQL Workbench
+-Microsift Power point** 
+
 **Retail datebase overview**
 Business database from 3 tables to understand the behavior of customer purchase  details and transaction information.
 To understand the project based on customer behaviour and understand interest toward the particular product purchase that involves the increase sales and revenue.
@@ -37,7 +41,9 @@ Objective:**
 
 
 
-**conclusion**
+
+
+**Conclusion**
 
 From the Data- analysis better understanding the customer retention, sales predication for each category Electronics, Flagships, Books, DIY products and predict the upcoming future  sales.
 Challenges faced while understanding the time analysis and total revenue on different period.
