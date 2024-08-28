@@ -36,6 +36,11 @@ Product category data: The table contains the information about the product cate
 
 **Data Understanding and preparation
 Objective:**
+*1.Total no of row in each of the 3 tables in the database:*To find the total number of counts reconds on each table.
+*2.Total number of transaction that have a return: *To help find the count of total transaction record having the retrurn value.
+*3.As you would noticed,the dates provided across the dataset are not in a correct format:* Given datesets first need to understand the data variables and format are correclty found or not if some variable are in appropriate forms like string and need to change the date into float,integer,percent values.
+*4. Time range of the transaction data available for analysis:* To identify the date columns on customers_new and transaction date need to modify the date variable into date format for further data analysis process.
+*5.Product category does the sub-category "DIY" belongs:*To write the condition using where it belongs subcatogory "DIY"sub-category 
 
 **Data analysis**
 
@@ -45,11 +50,11 @@ Objective:**
 
 **Conclusion**
 
-From the Data- analysis better understanding the customer retention, sales predication for each category Electronics, Flagships, Books, DIY products and predict the upcoming future  sales.
+From the Data- analysis better understanding the customer retention, sales predication for each category Electronics, Flagships, Books, DIY products and predict the upcoming performance growth.
 Challenges faced while understanding the time analysis and total revenue on different period.
-The insights highlight the performance which product category sales tops the revenue and yield.
-To evaluate and enhancement based on customer feedback.
-To increase the sales, avail some exclusive offers on weekends and monthly basis.
+The insights highlight the performance which product category sales tops the revenue and yield. To increase the sales, avail some exclusive offers on weekends and  month basis.
+To  include practice offering support on multiple channels, enabling self-service systems, and using customer feedback to evaluate your performance. 
+
 
 
 
